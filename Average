@@ -1,7 +1,7 @@
-var s = "Arshia";
-var G1 = 100;
-var G2 = 89;
-var G3 = 45;
-var G4 = 64;
-var Avg = (G1 + G2)/4;
-alert(s + "'s average is " + Avg);
+// Input
+Assign Student
+Assign Grades
+//Process
+Average = sum of grades / number of grades
+// Output
+Print Student's Average
