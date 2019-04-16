@@ -1,0 +1,7 @@
+var s = "Arshia";
+var G1 = 100;
+var G2 = 89;
+var G3 = 45;
+var G4 = 64;
+var Avg = (G1 + G2)/4;
+alert(s + "'s average is " + Avg);
