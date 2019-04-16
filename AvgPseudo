@@ -1,11 +1,11 @@
 // Input
-Assign Student
-Assign Grades
+Assign Student s
+Assign Grades G1, G2, G3, G4
 Average Status
 //Process
-Average = sum of grades / number of grades
+Avg = sum of grades / number of grades
 If >= 60 the student is approved
-if < 60 the student is repproved
+If < 60 the student is repproved
 // Output
 Print Student's Average
-Print Approved/Reproved
+Print Status
