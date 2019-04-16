@@ -5,3 +5,8 @@ var G3 = 45;
 var G4 = 64;
 var Avg = (G1 + G2)/4;
 alert(s + "'s average is " + Avg);
+if (Avg >= 60) {
+  alert(s + " is approved!");
+} else {
+  alert(s + " is reproved!");
+}
