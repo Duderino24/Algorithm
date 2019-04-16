@@ -1,7 +1,11 @@
 // Input
 Assign Student
 Assign Grades
+Average Status
 //Process
 Average = sum of grades / number of grades
+If >= 60 the student is approved
+if < 60 the student is repproved
 // Output
 Print Student's Average
+Print Approved/Reproved
