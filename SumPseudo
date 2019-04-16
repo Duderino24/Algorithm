@@ -1,0 +1,9 @@
+//Input
+Assign Var total
+Assign Var i = 11
+//Process
+for i <=22
+Add i to total
+increment until i = 22
+//Output
+Print total
