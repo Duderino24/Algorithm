@@ -1,0 +1,8 @@
+//Input
+Assign variable f for factorial
+Assign variable i = 5
+//process
+until i = 1
+f = f * i
+//Output
+Print f
