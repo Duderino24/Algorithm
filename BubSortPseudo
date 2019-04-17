@@ -1,0 +1,11 @@
+//Input
+Assign variables x, y, z
+//process
+if x > y
+  swap x with y
+if x > z 
+  swap x with z
+if y > z 
+  swap y with z
+//Output
+Print x, y, z sorted
