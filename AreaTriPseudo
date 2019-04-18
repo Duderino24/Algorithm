@@ -1,0 +1,8 @@
+//Input
+Assign variable b for base
+Assign variable h for height
+Assign Variable a for area
+//process
+a = (h*b)/2
+//Output
+Print a
