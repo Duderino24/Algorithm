@@ -1,0 +1,4 @@
+var h = 5;
+var b = 10;
+var a = (h*b)/2;
+alert("Area of Triangle is " + a);
