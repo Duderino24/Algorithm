@@ -1,7 +1,8 @@
 //Input
+Assign var p = 3.14
 Assign variable r for radius
 Assign Variable a for area
 //process
-a = 3.14*r^2
+a = p*r^2
 //Output
 Print a
