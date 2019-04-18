@@ -1,0 +1,14 @@
+for (n=1 ; n<100 ; n++) {
+	if (n<2) {
+		alert(n + " is not prime!");
+    } else {
+	for (d=2 ; d<10 ; d++) {
+		var r = n%d;
+		if (r=0) {
+			alert(n + " is not prime!");
+        } else {
+			alert(n + " is prime!");
+        }
+    }
+    }
+}
