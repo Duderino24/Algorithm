@@ -1,0 +1,4 @@
+var l = 4;
+var w = 5;
+var a = l * w;
+alert("Area of Rectangle is " + a);
