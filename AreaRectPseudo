@@ -1,0 +1,8 @@
+//Input 
+Assign variable w for width
+Assign variable l for length
+Assign variable a for area
+//Process
+a = l*w
+//Output
+Print a
