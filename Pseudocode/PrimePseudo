@@ -1,0 +1,20 @@
+// Input
+var n is number
+var d is divisor
+var r = n % d
+//process
+if n<2 
+  print "it's not prime"
+  n++
+if n = 2
+  print "it's prime"
+  n++
+if n > 2
+  for n < 100
+  divide n by d (which is r)
+    if r = 0
+      Print "it's not prime"
+    if r > 0
+      Print "it's prime"
+//Output
+Print condition
